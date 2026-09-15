@@ -1,0 +1,3 @@
+[submodule "wgd-assets"]
+	path = wgd-assets
+	url = https://github.com/wgdsoc/wgd-assets

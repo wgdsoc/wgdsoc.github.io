@@ -1,0 +1,13 @@
+<figure style="{{ include.style }}">
+  <a href="{{ include.link | default: include.src }}">
+    <img
+      src="{{ include.src }}"
+      alt="{{ include.alt }}"
+      class="img-class"
+      style="{{ include.img }}"
+    />
+  </a>
+  <figcaption>
+    <em> {{ include.caption }} </em>
+  </figcaption>
+</figure>
