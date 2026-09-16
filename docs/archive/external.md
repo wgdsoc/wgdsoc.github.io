@@ -14,7 +14,7 @@ This is a listing of the very best external online resources that the exec and m
     src="/wgd-assets/lfs/third-party-snippets/catlikecoding.jpg"
     style="float: right; width: 50%; margin: 0px 0px 0px 1em;"
     caption="Catlike Coding's example hex strategy game"
-    link="<https://catlikecoding.com/unity/tutorials/hex-map/>"
+    link="https://catlikecoding.com/unity/tutorials/hex-map/"
 %}
 
 - See some C# and shader tutorials for the Unity game engine at [Catlike Coding](https://catlikecoding.com/unity/tutorials/). Noise, procedural mesh generation, water and the unity rendering pipeline are all taught on this highly detailed site.
@@ -25,7 +25,7 @@ This is a listing of the very best external online resources that the exec and m
     src="/wgd-assets/lfs/third-party-snippets/roystantoon.png"
     style="float: right; width: 50%; margin: 0px 0px 0px 1em;"
     caption="Roystan's toon shader"
-    link="<https://roystan.net/articles/toon-shader/>"
+    link="https://roystan.net/articles/toon-shader/"
 %}
 
 - Alan Zucconi has a very large catalogue of [tutorials](https://www.alanzucconi.com/tutorials/), including orbital mechanics, plugin development for Minecraft, and 4D rendering.
@@ -58,7 +58,7 @@ This is a listing of the very best external online resources that the exec and m
     src="/wgd-assets/lfs/third-party-snippets/kenny-assets-sample.png"
     style="float: right; width: 50%; margin: 0px 0px 0px 1em;"
     caption="An exemplar sample of Kenny's assets"
-    link="<https://kenney.nl/>"
+    link="https://kenney.nl/"
 %}
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) is a great (paid) resource for understanding structures and systems in making games.
