@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-# Our Resources
+<img src="/wgd-assets/lfs/archive/card.svg">
 
 The list of resources that the society has discovered or created is both vast and currently unsorted. In this list we plan to account for:
 

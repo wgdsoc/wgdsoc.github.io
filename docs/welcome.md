@@ -10,10 +10,10 @@ carousels:
     - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
     - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
   - images:
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
+    - image: wgd-assets/lfs/gallery/unlinked/jam-gaming.jpg
+    - image: wgd-assets/lfs/gallery/unlinked/socs-fair.jpg
+    - image: wgd-assets/lfs/gallery/unlinked/jamming.jpg
+    - image: wgd-assets/lfs/gallery/unlinked/presenting.png
 ---
 
 <style>
@@ -34,31 +34,34 @@ This is the society website for WGD, the Warwick campus home of game design.
 -
 {% include image.html
     src="/wgd-assets/lfs/tutorials/card.svg"
-    style="align: center; width: 70%; margin: 0px 0px 0px 1em;"
-    caption="See our online tutorials"
+    style="width: 70%; margin: 0px 0px 0px 1em;"
+    caption="On basics through to advanced topics across game design"
     link="/docs/tutorials"
 %}
 -
 {% include image.html
     src="/wgd-assets/lfs/events/card.svg"
-    style="align: center; width: 100%; margin: 0px 0px 0px 1em;"
+    style="width: 70%; margin: 0px 0px 0px 1em;"
     caption="See our in-person events"
     link="/docs/events"
 %}
 -
 {% include image.html
-    src="/wgd-assets/lfs/tutorials/card.svg"
-    style="align: center; width: 70%; margin: 0px 0px 0px 1em;"
+    src="/wgd-assets/lfs/archive/card.svg"
+    style="width: 70%; margin: 0px 0px 0px 1em;"
     caption="See resources and assets by us and others"
     link="/docs/archive"
 %}
 -
 {% include image.html
-    src="/wgd-assets/lfs/tutorials/card.svg"
-    style="align: center; width: 70%; margin: 0px 0px 0px 1em;"
-    caption="Meet the executive team"
+    src="/wgd-assets/lfs/elections/current-exec.svg"
+    style="width: 70%; margin: 0px 0px 0px 1em;"
+    caption="Meet the executive team and see election details"
     link="/docs/executives"
 %}
 -
 </center>
 {% include carousel.html height="50" unit="%" number="2" %}
+
+The society in action.
+{: align="center"}
