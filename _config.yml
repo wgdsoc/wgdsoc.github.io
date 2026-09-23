@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We support all levels of skill and ambition, from first-timers looking for guidance,
   to full-fledged devs looking for a community or a team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://warwick-game-design.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uwgd.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
