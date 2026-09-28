@@ -4,4 +4,4 @@ title: Godot basics
 parent: Tutorials
 ---
 
-# TODO: add PDFs as we go
+# On the way...

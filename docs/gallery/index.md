@@ -5,7 +5,7 @@ title: Gallery
 
 <img src="/wgd-assets/lfs/gallery/card.svg">
 
-See games made by our members and executives during our jams. [Contact us](/contact-us/) if you think we've missed something, or if you've made a game / taken a picture to be featured. All the pictured games (alongside many more) are available to play on [itch.io](https://wgdsoc.itch.io/).
+See games made by our members and executives during our jams. [Contact us](/docs/about-us/) if you think we've missed something, or if you've made a game / taken a picture to be featured. All the pictured games (alongside many more) are available to play on [itch.io](https://wgdsoc.itch.io/).
 
 <div class="gallery">
 {% for image in site.static_files %}

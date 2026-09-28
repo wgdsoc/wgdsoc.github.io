@@ -5,11 +5,6 @@ permalink: /
 nav_exclude: true
 carousels:
   - images:
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-    - image: wgd-assets/lfs/third-party-snippets/catlikecoding.jpg
-  - images:
     - image: wgd-assets/lfs/gallery/unlinked/jam-gaming.jpg
     - image: wgd-assets/lfs/gallery/unlinked/socs-fair.jpg
     - image: wgd-assets/lfs/gallery/unlinked/jamming.jpg
@@ -24,8 +19,6 @@ carousels:
 </style>
 
 ----
-
-{% include carousel.html height="50" unit="%" number="1" %}
 
 <div class="subtitle" markdown="1">
 This is the society website for WGD, the Warwick campus home of game design.
@@ -61,7 +54,7 @@ This is the society website for WGD, the Warwick campus home of game design.
 %}
 -
 </center>
-{% include carousel.html height="50" unit="%" number="2" %}
+{% include carousel.html height="50" unit="%" number="1" %}
 
 The society in action.
 {: align="center"}

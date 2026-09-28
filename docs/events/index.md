@@ -9,6 +9,15 @@ The society offers a variety of in-person and semi-remote events. Take a look at
 
 <center>
 {% include image.html
+    src="/wgd-assets/lfs/events/welcome-week-26.png"
+    style="align: center; margin: 0px 0px 0px 1em;"
+    caption="Welcome week"
+    link="/wgd-assets/lfs/events/welcome-week-26.png"
+%}
+</center>
+---
+<center>
+{% include image.html
     src="/wgd-assets/lfs/events/tba.svg"
     style="align: center; margin: 0px 0px 0px 1em;"
     caption="Term 1"
